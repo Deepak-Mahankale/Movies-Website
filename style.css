@@ -1,5 +1,6 @@
 .layer1{
     display: flex;
+
 }
 
 .search{
@@ -33,5 +34,9 @@
     width: 75%;
     justify-self: center;
     height: 100vh;
+}
+
+.page-navigaion{
+
 }
 
