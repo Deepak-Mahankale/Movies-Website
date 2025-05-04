@@ -3,6 +3,11 @@
 
 }
 
+.ftt{
+    margin-bottom: 0;
+    padding-bottom: 0%;
+}
+
 .search{
     background-image: url("./assests/svgs/search.svg");
     background-size: cover ;
@@ -36,7 +41,22 @@
     height: 100vh;
 }
 
-.page-navigaion{
+.how-to-download{
 
+}
+
+.hh1{
+    margin-bottom: 20px;
+}
+
+.hh{
+    color: tomato;
+}
+
+.dcma {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
 }
 
