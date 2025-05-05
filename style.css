@@ -1,6 +1,5 @@
 .layer1{
     display: flex;
-
 }
 
 .ftt{
@@ -58,5 +57,37 @@
     padding: 0;
     height: 100%;
     overflow: hidden;
+}
+
+.movie-heading{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.movies-details{
+    display: flex;
+}
+
+.movie-black-box{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    
+}
+
+.movie-img{
+    justify-content: start;
+    align-items: start;
+    width: 500px;
+    height: 100%;
+}
+
+/* Rough Work */
+
+
+.a{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin: 10px;
 }
 
