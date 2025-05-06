@@ -69,17 +69,24 @@
 }
 
 .movie-black-box{
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    
+    display: flex;
+    /* grid-template-columns: 1fr 2fr; */
 }
 
 .movie-img{
-    justify-content: start;
-    align-items: start;
-    width: 500px;
-    height: 100%;
+    
+    /* width: 500px;
+    height: 100%; */
 }
+
+.move-img{
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    margin-left: 5%;
+    margin-right: 1%; 
+}
+
 
 /* Rough Work */
 
