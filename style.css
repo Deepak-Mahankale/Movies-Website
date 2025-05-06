@@ -34,11 +34,32 @@
     margin-bottom: 20px;
 }
 
+
 .dcma {
     margin: 0;
     padding: 0;
     height: 100%;
     overflow: hidden;
+}
+
+.movie-heading{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.movies-details{
+    display: flex;
+}
+
+.movie-black-box{
+    display: flex;
+    /* grid-template-columns: 1fr 2fr; */
+}
+
+.movie-img{
+    
+    /* width: 500px;
+    height: 100%; */
 }
 
 .move-img{
@@ -54,7 +75,6 @@
     margin-left: 11.5%; 
     margin-right: 11.5%;
 }
-
 
 /* Rough Work */
 
