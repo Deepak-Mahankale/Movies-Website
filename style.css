@@ -1,3 +1,12 @@
+.layer1{
+    display: flex;
+}
+
+.ftt{
+    margin-bottom: 0;
+    padding-bottom: 0%;
+}
+
 .search{
     background-image: url("./assests/svgs/search.svg");
     background-size: cover ;
@@ -14,13 +23,14 @@
     gap: 15px;
 }
 
-.flex-container > *{
+.flex-container >*{
+
     margin-top: 20px;
 }
 
 .catdd {
     margin: 10px;
-    font-size: 20px;
+    font-size: 20px; /* Or any desired font size */
 }
 
 .content_box{
@@ -34,6 +44,9 @@
     margin-bottom: 20px;
 }
 
+.hh{
+    color: tomato;
+}
 
 .dcma {
     margin: 0;
@@ -76,6 +89,14 @@
     margin-right: 11.5%;
 }
 
+
 /* Rough Work */
 
+
+.a{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin: 10px;
+}
 
